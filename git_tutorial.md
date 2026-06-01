@@ -1,6 +1,10 @@
 # Git Tutorial
 Die wichtigsten Git-Befehle 
 
+## Git Lifecycle
+
+https://git-scm.com/book/de/v2/images/lifecycle.png
+
 ## neues Git Repositry initialisieren
 
     git init
@@ -20,3 +24,7 @@ Die wichtigsten Git-Befehle
 
     git commit -m "First Commit"
     git status
+    
+## Übersicht aller bisherigen Commits
+
+    git log
